@@ -1,0 +1,5 @@
+name: QuantumRPAPI
+version: '${project.version}'
+main: fr.yanis.quantumrpapi.ApiMain
+authors: [ Sterll ]
+description: API pour le serveur QuantumRP
